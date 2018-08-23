@@ -1,0 +1,45 @@
+[
+    {
+        "action": "blackscreen",
+        "duration": null
+    },
+    {
+        "action": "instructions",
+        "duration": 33.0
+    },
+    {
+        "action": "game",
+        "levels": "levels/easylevels.json",
+        "duration": 120.0
+    },
+    {
+        "action": "blackscreen",
+        "duration": 57.0
+    },
+    {
+        "action": "instructions",
+        "duration": 8.0
+    },
+    {
+        "action": "game",
+        "levels": "levels/hardlevels.json",
+        "duration": 120.0
+    },
+    {
+        "action": "blackscreen",
+        "duration": 57.0
+    },
+    {
+        "action": "instructions",
+        "duration": 8.0
+    },
+    {
+        "action": "game",
+        "levels": "levels/standardlevels.json",
+        "duration": 120.0
+    },
+    {
+        "action": "blackscreen",
+        "duration": 60.0
+    }
+]
